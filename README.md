@@ -1,1 +1,2 @@
-final_train檔案內有關於競賽的說明以及pdf分析報告檔連結
+dbscan與kmeans資料夾內為不使用相關套件實現該2種分群法
+kobe_analysis內有籃球員kobe歷年比賽的資料，使用pandas等套件進行多種分析
